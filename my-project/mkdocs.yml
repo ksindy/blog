@@ -1,5 +1,5 @@
 site_name: Karly's Blog
-theme: bootstrap
+theme: alabaster
 pages:
     - Home: index.md
     - About: about.md
