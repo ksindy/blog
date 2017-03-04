@@ -1,5 +1,10 @@
-site_name: Karly's Blog
+site_name: Karly Sindy
 theme: alabaster
+
 pages:
-    - Home: index.md
-    - About: about.md
+- Home: index.md
+- Blog Posts:
+    - 2017 February:
+        - stdin, stdout, stderr, stdoh!: stdin-stdout-stderr-stdoh.md
+        - DNA as data storage: dna-as-data-storage.md
+
